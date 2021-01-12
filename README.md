@@ -57,7 +57,7 @@ email: admin@xestorincidencias.com
 
 password: abc123..
 
-Para dúbidas sobre o funcionamento pódese revisar o [Manual de Usuario](DOCUMENTACION_PROXECTO/MANUAL_USUARIO/00_Introduccion.md)
+Para dúbidas sobre o funcionamento pódese revisar o [Manual de Usuario](DOCUMENTACION_PROXECTO/MANUAL_USUARIO/00_Introducion.md)
 
 **NOTA:** O paquete descargable ven preparado para instalar nun servidor local no que o acceso á base de datos se realiza co usuario root e sen contrasinal, no caso de que teñamos configurado algún contrasinal ou un usuario distinto deberemos modificar o arquivo .env cos datos de acceso. Se hai dúbidas de como realizar este procedento podemos revisar o apartado *"Preparacion da aplicación para o despregue -> Arquivo.env"* do documento de [Implantación](DOCUMENTACION_PROXECTO/07_Implantacion.md)
 

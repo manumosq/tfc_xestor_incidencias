@@ -165,6 +165,6 @@ No caso de que o cliente adquira a aplicación e desexe facer correcións, mello
 
 ### **Manual do usuario:**
 
-Xunto con esta documentación atópase o [Manual de usuario](MANUAL_USUARIO/00_Introduccion.md).
+Xunto con esta documentación atópase o [Manual de usuario](MANUAL_USUARIO/00_Introducion.md).
 
 [->Voltar ao Incicio](../README.md)
